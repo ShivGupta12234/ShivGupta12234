@@ -386,9 +386,6 @@ const shiv = {
         <li>IBM Back-End Development <strong>Capstone Project</strong> - scored 97.50%</li>
       </ul>
     </td>
-  </tr>
-  
-  <tr>
     <!-- ── PROJECT 4: MyDataApplied Portfolio ── -->
     <td width="33%" valign="top">
       <h3 align="center">
