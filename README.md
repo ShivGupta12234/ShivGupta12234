@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        HEADER WAVE                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a2e,60:00d4ff18,100:7928ca35&height=260&section=header&text=Shiv%20Prakash%20Gupta&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%9C%A6%20Data%20Analyst&descAlignY=60&descSize=20&descColor=c9d1d9"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 <a href="https://mydataapplied.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1600&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=780&lines=Hey+there!+%F0%9F%91%8B+Welcome+to+my+GitHub!;Full-Stack+Developer+%7C+Data+Analyst;Building+Scalable+Web+Apps+%26+Data+Pipelines;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Turning+Raw+Data+into+Powerful+Decisions+%F0%9F%9A%80;Let%27s+build+something+extraordinary+together!" alt="Typing SVG" />
@@ -27,9 +22,7 @@
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        SOCIAL LINKS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 <a href="https://www.linkedin.com/in/prakash-gupta-shiv/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -57,9 +50,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -67,27 +58,25 @@
 const shiv = {
   name        : "Shiv Prakash Gupta",
   roles       : ["Full-Stack Developer", "Data Analyst"],
-  education   : "B.Tech CSE (Data Science) — PSIT Kanpur  |  2022–2026",
+  education   : "B.Tech CSE (Data Science) - PSIT Kanpur  |  2022–2026",
   location    : "Kanpur, India 🇮🇳",
   email       : "prakashguptashiv911@gmail.com",
   phone       : "+91 830 373 1077",
   portfolio   : "https://mydataapplied.vercel.app/",
-  currently   : "Building CodeZynk — a real-time collaborative code editor",
+  currently   : "Building CodeZynk - a real-time collaborative code editor",
   learning    : "System Design, Microservices & Advanced ML",
-  openTo      : ["Full-Stack Roles", "Data Analyst Roles", "Freelance Projects"],
-  funFact     : "I solve LeetCode problems for fun — 170+ solved, 84% acceptance 🔥",
-  philosophy  : "I don't just write code — I architect solutions.",
-               // "I don't just analyse data — I tell its story."
+  openTo      : ["Full-Stack Roles", "Software Engineer Roles", ""Software Developer Roles", "Data Analyst Roles", "DevOps Related Roles", "Freelance Projects"],
+  funFact     : "I solve LeetCode problems for fun - 170+ solved, 85% acceptance 🔥",
+  philosophy  : "I don't just write code - I architect solutions.",
+               // "I don't just analyse data - I tell its story."
 };
 ```
 
-> *"At the intersection of code and data lies something extraordinary — I live there."*
+> *"At the intersection of code and data lies something extraordinary - I live there."*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    RESUME DOWNLOAD SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Resume
 
@@ -111,7 +100,7 @@ const shiv = {
 <summary><b>💻 Developer Resume — Click to expand</b></summary>
 <br/>
 
-### Shiv Prakash Gupta — Full-Stack Developer
+### Shiv Prakash Gupta - Full-Stack Developer
 
 📧 prakashguptashiv911@gmail.com &nbsp;|&nbsp; 📞 +91 830 373 1077 &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/prakash-gupta-shiv/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp; <a href="https://mydataapplied.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
@@ -127,9 +116,9 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 | Institution | Degree / Board | Grade | Year |
 |:---|:---|:---:|:---:|
-| Pranveer Singh Institute of Technology (PSIT), Kanpur | B.Tech — CSE (Data Science) | 70% | 2022–2026 |
-| Doon International School, Kanpur | Intermediate — CBSE | 78.4% | 2019–2021 |
-| Mercy Memorial School, Kanpur | High School — ICSE | 82.4% | 2019 |
+| Pranveer Singh Institute of Technology (PSIT), Kanpur | B.Tech - CSE (Data Science) | 70% | 2022-2026 |
+| Doon International School, Kanpur | Intermediate - CBSE | 78.4% | 2019-2021 |
+| Mercy Memorial School, Kanpur | High School - ICSE | 82.4% | 2019 |
 
 **Relevant Courses:** Data Structures & Algorithms, Design Principles, Operating Systems, System Design, DBMS
 
@@ -137,13 +126,13 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 #### 🚀 Projects
 
-**AI-Powered Disease Prediction System** &nbsp;|&nbsp; <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp; `May '25 – Nov '25`
+**AI - Powered Disease Prediction System** &nbsp;|&nbsp; <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp; `May '25 – Nov '25`
 
 - Implemented JWT authentication, bcrypt password hashing, and role-based access control; designed a CRUD application predicting **14+ diseases**, decreasing potential security vulnerabilities by **25%**
 - Integrated Hugging Face Inference API for ML model inference, decreasing model inference latency by **35%** and increasing prediction accuracy by **7%** through optimized symptom parsing
 - **Tech Stack:** JavaScript, React.js, Node.js, Express.js, MongoDB, JWT, Hugging Face API, Recharts
 
-**CodeZynk — Real-Time Collaborative Code & Document Editor** &nbsp;|&nbsp; <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp; `Jan '26 – Present`
+**CodeZynk - Real-Time Collaborative Code & Document Editor** &nbsp;|&nbsp; <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp; `Jan '26 – Present`
 
 - Developing a full-stack real-time collaboration platform with simultaneous multi-user document and code editing, live cursor presence, and WebSockets via Socket.io
 - Implementing Operational Transformation via Yjs for conflict-free concurrent editing; JWT auth with refresh token rotation, RBAC, and guest sessions; Redis for session caching and rate limiting
@@ -167,22 +156,22 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 #### 🏅 Achievements
 
-- 🥇 **97.50%** — IBM Back-End Apps with Node.js and Express
-- 🥇 **91.82%** — SQL for Data Science — UC Davis
-- 🥇 **96.25%** — Python for Data Science, AI & Development — IBM
-- 🥇 **98.14%** — Excel Basics for Data Analysis — IBM
-- 🏆 **Certificate of Excellence** — Coding Ninjas *(Top 10% coders)*
-- ⚡ **LeetCode** — 170+ problems solved with **84% acceptance rate**
+- 🥇 **97.50%** - IBM Back-End Apps with Node.js and Express
+- 🥇 **91.82%** - SQL for Data Science - UC Davis
+- 🥇 **96.25%** - Python for Data Science, AI & Development - IBM
+- 🥇 **98.14%** - Excel Basics for Data Analysis - IBM
+- 🏆 **Certificate of Excellence** - Coding Ninjas *(Top 10% coders)*
+- ⚡ **LeetCode** - 170+ problems solved with **84% acceptance rate**
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>📊 Analyst Resume — Click to expand</b></summary>
+<summary><b>📊 Analyst Resume - Click to expand</b></summary>
 <br/>
 
-### Shiv Prakash Gupta — Data Analyst
+### Shiv Prakash Gupta - Data Analyst
 
 📧 prakashguptashiv911@gmail.com &nbsp;|&nbsp; 📞 +91 830 373 1077 &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/prakash-gupta-shiv/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp; <a href="https://mydataapplied.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
@@ -192,9 +181,9 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 | Institution | Degree / Board | Grade | Year |
 |:---|:---|:---:|:---:|
-| Pranveer Singh Institute of Technology (PSIT), Kanpur | B.Tech — CSE (Data Science) | 70% | 2022–2026 |
-| Doon International School, Kanpur | Intermediate — CBSE | 78.4% | 2019–2021 |
-| Mercy Memorial School, Kanpur | High School — ICSE | 82.4% | 2019 |
+| Pranveer Singh Institute of Technology (PSIT), Kanpur | B.Tech - CSE (Data Science) | 70% | 2022-2026 |
+| Doon International School, Kanpur | Intermediate - CBSE | 78.4% | 2019-2021 |
+| Mercy Memorial School, Kanpur | High School - ICSE | 82.4% | 2019 |
 
 **Relevant Courses:** Python, SQL, Data Analytics, Data Structures & Algorithms, Statistics
 
@@ -202,7 +191,7 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 #### 🚀 Projects
 
-**AI-Powered Disease Prediction & Health Data Analysis System** &nbsp;|&nbsp; <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp; `May '25 – Nov '25`
+**AI - Powered Disease Prediction & Health Data Analysis System** &nbsp;|&nbsp; <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp; `May '25 – Nov '25`
 
 - Rectified over **500 data entry discrepancies** through rigorous data cleaning and preprocessing, yielding a **50% enhancement** in overall data accuracy for critical health indicator analysis
 - Performed EDA and statistical analysis on **20+ health-related variables** to identify key health indicators
@@ -235,19 +224,17 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 #### 🏅 Achievements
 
-- 🥇 **98%** — Data Analysis with Python — IBM
-- 🥇 **91.82%** — SQL for Data Science — UC Davis
-- 🥇 **96.25%** — Python Fundamentals for Data Science & AI — IBM
-- 🏆 **Certificate of Excellence** — Coding Ninjas *(Top 10%)*
-- ⚡ **LeetCode** — Engineered optimal solutions for data structure problems, reducing average algorithm runtime by **150ms**
+- 🥇 **98%** - Data Analysis with Python - IBM
+- 🥇 **91.82%** - SQL for Data Science - UC Davis
+- 🥇 **96.25%** - Python Fundamentals for Data Science & AI - IBM
+- 🏆 **Certificate of Excellence** - Coding Ninjas *(Top 10%)*
+- ⚡ **LeetCode** - Engineered optimal solutions for data structure problems, reducing average algorithm runtime.
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
 
@@ -345,9 +332,7 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
 
@@ -376,9 +361,7 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     ACHIEVEMENTS SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 ## 🏆 Achievements & Certifications
 
@@ -388,11 +371,14 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 | 🏅 Certificate | 🏢 Issuer | 📊 Grade | 🔗 Verify |
 |:---|:---|:---:|:---:|
-| Back-End Apps with Node.js and Express | IBM | 97.50% | <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">View</a> |
-| SQL for Data Science | UC Davis | 91.82% | <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">View</a> |
-| Python for Data Science, AI & Development | IBM | 96.25% | <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">View</a> |
-| Excel Basics for Data Analysis | IBM | 98.14% | <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">View</a> |
-| Certificate of Excellence | Coding Ninjas | Top 10% | <a href="https://www.codingninjas.com/" target="_blank" rel="noopener noreferrer">View</a> |
+| Back-End Apps with Node.js and Express | IBM | 97.50% | <a href="https://www.coursera.org/account/accomplishments/verify/3IR3LMWTJLD3" target="_blank" rel="noopener noreferrer">View</a> |
+|Certificate of completion - AI Fluency: Framework & Foundations| Anthropic | <a href="https://verify.skilljar.com/c/pj3ogpcpp34f" target="_blank" rel="noopener noreferrer">View</a> |
+| Intro to AI Engineering | Scrimba/Coursera | 100% |<a href="https://www.coursera.org/account/accomplishments/verify/P6QAQIC0NTOF" target="_blank" rel="noopener noreferrer">View</a> |
+| Google AI Professional Certificate | Google | <a href="https://www.coursera.org/account/accomplishments/professional-cert/MC84LFUO90FG" target="_blank" rel="noopener noreferrer">View</a> |
+| React.js: Building an Interface | LinkedIn | <a href="https://www.linkedin.com/learning/certificates/08b82b700e8c2eb6188852e610218a807c330b658914dddd6bc1b8597d4be02b" target="_blank" rel="noopener noreferrer">View</a> |
+| React Essential Training | LinkedIn | <a href="https://www.linkedin.com/learning/certificates/959631b90b7870db661fe069b68b011d0519b72fec5a4ed75f6b62f71f91e74e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxC978oANQ9qK2nssWHmLnw%3D%3D" target="_blank" rel="noopener noreferrer">View</a> |
+| Excel Basics for Data Analysis | IBM | 98.14% | <a href="https://www.coursera.org/account/accomplishments/verify/E0CKF13K99DA" target="_blank" rel="noopener noreferrer">View</a> |
+| Certificate of Excellence | Coding Ninjas | Top 10% Coder | <a href="certificate.codingninjas.com/verify/89a9a840c5e5f368" target="_blank" rel="noopener noreferrer">View</a> |
 | LeetCode Problem Solving | LeetCode | 84% Acceptance · 170+ solved | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
 
 </div>
@@ -405,19 +391,17 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 | 🏅 Certificate | 🏢 Issuer | 📊 Grade | 🔗 Verify |
 |:---|:---|:---:|:---:|
-| Data Analysis with Python | IBM | 98% | <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">View</a> |
-| SQL for Data Science | UC Davis | 91.82% | <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">View</a> |
-| Python Fundamentals for Data Science & AI | IBM | 96.25% | <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">View</a> |
-| Certificate of Excellence | Coding Ninjas | Top 10% | <a href="https://www.codingninjas.com/" target="_blank" rel="noopener noreferrer">View</a> |
+| Data Analysis with Python | IBM | 98% | <a href="https://www.coursera.org/account/accomplishments/verify/80LUXMMNLMD3" target="_blank" rel="noopener noreferrer">View</a> |
+| SQL for Data Science | UC Davis | 91.82% | <a href="https://www.coursera.org/account/accomplishments/verify/J6585N2EBPMS" target="_blank" rel="noopener noreferrer">View</a> |
+| Python Fundamentals for Data Science & AI | IBM | 96.25% | <a href="https://www.coursera.org/account/accomplishments/verify/RR8W7T0RVMAB" target="_blank" rel="noopener noreferrer">View</a> |
+| Certificate of Excellence | Coding Ninjas | Top 10% Coders | <a href="certificate.codingninjas.com/verify/89a9a840c5e5f368" target="_blank" rel="noopener noreferrer">View</a> |
 | LeetCode — Data Structures | LeetCode | Avg. runtime ↓150ms | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                  SNAKE CONTRIBUTION GRAPH                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 ## 🐍 Contribution Snake
 
@@ -435,29 +419,36 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/ShivGupta12234/CodeZynk" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=CodeZynk&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" alt="CodeZynk"/>
+<a href="https://github.com/ShivGupta12234/CodeZynk.ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=CodeZynk.ai&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 &nbsp;
-<a href="https://github.com/ShivGupta12234/AI-Disease-Prediction" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=AI-Disease-Prediction&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="AI Disease Prediction"/>
+
+<a href="https://github.com/ShivGupta12234/ai-health-prediction-application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=ai-health-prediction-application&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+&nbsp;
+
+<a href="https://github.com/ShivGupta12234/mydataapplied">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=mydataapplied&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+&nbsp;
+
+<a href="https://github.com/ShivGupta12234/expressBookReviews">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivGupta12234&repo=expressBookReviews&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        CONNECT SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 ## 🌐 Let's Connect
 
@@ -488,9 +479,5 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=5500&pause=2000&color=8b949e&center=true&vCenter=true&repeat=true&width=620&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Feel+free+to+reach+out+for+collabs+or+opportunities;Let%27s+build+something+amazing+together+%F0%9F%9A%80;Always+open+to+new+ideas+and+exciting+projects!" alt="Footer Typing"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER WAVE                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca35,50:00d4ff18,100:0d1117&height=140&section=footer"/>
