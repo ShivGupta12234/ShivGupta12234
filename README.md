@@ -153,7 +153,8 @@ const shiv = {
 ---
 ### 📊 Analytics
 
-| ◈ Core Languages | ◈ Data Analysis | ◈ Libraries | ◈ Statistics & Analytics | ◈ Tools |
+<div align="center">
+  | ◈ Core Languages | ◈ Data Analysis | ◈ Libraries | ◈ Statistics & Analytics | ◈ Tools |
 |-----------------|----------------|------------|--------------------------|--------|
 | 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
@@ -183,6 +184,7 @@ const shiv = {
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6B35?style=for-the-badge&logo=tableau&logoColor=white)
 |
 
+</div>
 
 
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br> | ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-FF4C8B?style=for-the-badge&logo=scipy&logoColor=white)<br> | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
