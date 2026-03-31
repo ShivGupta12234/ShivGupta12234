@@ -156,12 +156,12 @@ const shiv = {
 | ◈ Core Languages | ◈ Data Analysis | ◈ Libraries | ◈ Statistics & Analytics | ◈ Tools |
 |-----------------|----------------|------------|--------------------------|--------|
 | 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>| ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00d4ff?style=for-the-badge&logo=databricks&logoColor=white)<br>|
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 |
-
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00d4ff?style=for-the-badge&logo=databricks&logoColor=white)<br>
 ![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-7928ca?style=for-the-badge&logo=databricks&logoColor=white)<br>
 ![EDA](https://img.shields.io/badge/EDA-FF6B35?style=for-the-badge&logo=chartdotjs&logoColor=white)<br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>
@@ -175,7 +175,7 @@ const shiv = {
 |
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-FF4C8B?style=for-the-badge&logo=scipy&logoColor=white)<br>
 ![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-00d4ff?style=for-the-badge&logo=chartdotjs&logoColor=white)<br>
-![ML Modeling](https://img.shields.io/badge/ML_Modeling-7928ca?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ML Modeling](https://img.shields.io/badge/ML_Modeling-7928ca?style=for-the-badge&logo=tensorflow&logoColor=white)<br><br>
 |
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)<br>
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)<br>
