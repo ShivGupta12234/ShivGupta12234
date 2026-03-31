@@ -395,7 +395,7 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 | SQL for Data Science | UC Davis | 91.82% | <a href="https://www.coursera.org/account/accomplishments/verify/J6585N2EBPMS" target="_blank" rel="noopener noreferrer">View</a> |
 | Python Fundamentals for Data Science & AI | IBM | 96.25% | <a href="https://www.coursera.org/account/accomplishments/verify/RR8W7T0RVMAB" target="_blank" rel="noopener noreferrer">View</a> |
 | Certificate of Excellence | Coding Ninjas | Top 10% Coders | <a href="certificate.codingninjas.com/verify/89a9a840c5e5f368" target="_blank" rel="noopener noreferrer">View</a> |
-| LeetCode — Data Structures | LeetCode | Avg. runtime ↓150ms | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
+| LeetCode Problem Solving | LeetCode | 84% Acceptance · 200+ solved | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
 
 </div>
 
