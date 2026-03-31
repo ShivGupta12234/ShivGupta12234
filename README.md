@@ -97,7 +97,7 @@ const shiv = {
 <br/>
 
 <details>
-<summary><b>💻 Developer Resume — Click to expand</b></summary>
+<summary><b>💻 Developer Resume - Click to expand</b></summary>
 <br/>
 
 ### Shiv Prakash Gupta - Full-Stack Developer
