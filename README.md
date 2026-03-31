@@ -248,8 +248,9 @@ const shiv = {
 | LeetCode Problem Solving | LeetCode | 84% Acceptance · 200+ solved | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
 
 </div>
-
-<img style="align-tems: center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div style="display: flex; align-tems: center; justify-content: center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 
 
