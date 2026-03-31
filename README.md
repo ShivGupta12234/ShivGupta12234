@@ -65,7 +65,7 @@ const shiv = {
   portfolio   : "https://mydataapplied.vercel.app/",
   currently   : "Building CodeZynk - a real-time collaborative code editor",
   learning    : "System Design, Microservices & Advanced ML",
-  openTo      : ["Full-Stack Roles", "Software Engineer Roles", ""Software Developer Roles", "Data Analyst Roles", "DevOps Related Roles", "Freelance Projects"],
+  openTo      : ["Full-Stack Roles", "Software Engineer Roles", "Software Developer Roles", "Data Analyst Roles", "DevOps Related Roles", "Freelance Projects"],
   funFact     : "I solve LeetCode problems for fun - 170+ solved, 85% acceptance 🔥",
   philosophy  : "I don't just write code - I architect solutions.",
                // "I don't just analyse data - I tell its story."
