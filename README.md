@@ -80,7 +80,7 @@ const shiv = {
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Resume
 
-> 💡 Click a badge to download, or expand a section below to read inline.
+> 💡 Click a badge to download
 
 <div align="center">
 
