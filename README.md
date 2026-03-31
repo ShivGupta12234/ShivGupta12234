@@ -195,20 +195,6 @@ const shiv = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivGupta12234&show_icons=true&theme=github_dark&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/ShivGupta12234?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivGupta12234&layout=compact&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="49%" alt="Top Languages"/>
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
