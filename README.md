@@ -286,7 +286,7 @@ const shiv = {
 <div align="center">
 <table>
   <tr>
-    <!-- ── PROJECT 1: CodeZynk ── -->
+    <!-- ── PROJECT 1: CodeZynk.ai ── -->
     <td width="33%" valign="top">
       <h3 align="center">
         <a href="https://github.com/ShivGupta12234/CodeZynk.ai" target="_blank" rel="noopener noreferrer">⚡ CodeZynk</a>
@@ -296,7 +296,7 @@ const shiv = {
           <img src="https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
         </a>
       </p>
-      <p align="center"><em>Real-Time Collaborative Code &amp; Document Editor</em></p>
+      <p align="center"><em>Building a Real-Time Collaborative Code &amp; Document Editor</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
@@ -335,6 +335,7 @@ const shiv = {
         <li>Interactive <strong>Power BI dashboard</strong> - &#8595;20% manual review time</li>
       </ul>
     </td>
+    <!-- ── PROJECT 3: Aagam Desings - Architectural Firm's Website ── -->
     <td width="33%" valign="top">
       <h3 align="center">
         <a href="https://github.com/architectutsavgupta-aagam-designs/aagam-designs-website" target="_blank" rel="noopener noreferrer">🏛 Aagam Designs</a>
@@ -356,13 +357,15 @@ const shiv = {
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </p>
       <ul>
-        <li>Professional portfolio site for <strong>Aagam Designs</strong> - architectural firm, Kanpur</li>
+        <li>Professional portfolio site for <strong>Aagam Designs</strong> - an architectural firm, Kanpur</li>
         <li>Built with <strong>React + Vite</strong> for fast, modern performance</li>
         <li>Deployed live on <strong>Vercel</strong> - production-ready &amp; responsive</li>
         <li>Clean UI showcasing projects, services &amp; firm identity</li>
       </ul>
     </td>
-     <!-- ── PROJECT 5: Express Book Reviews ── -->
+  </tr>
+  <tr>
+     <!-- ── PROJECT 3: Express Book Reviews ── -->
     <td width="33%" valign="top">
       <h3 align="center">
         <a href="https://github.com/ShivGupta12234/expressBookReviews" target="_blank" rel="noopener noreferrer">📚 Express Book Reviews</a>
@@ -372,7 +375,7 @@ const shiv = {
           <img src="https://img.shields.io/badge/View%20Repo-34A853?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
         </a>
       </p>
-      <p align="center"><em>RESTful Book Review API  IBM Node.js Capstone</em></p>
+      <p align="center"><em>Final Project for IBM's course Developing Back-End Apps with Node.js and Express</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -400,7 +403,7 @@ const shiv = {
           <img src="https://img.shields.io/badge/Live%20Demo-vercel-FF4C8B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
         </a>
       </p>
-      <p align="center"><em>Personal Portfolio Website - Developer &amp; Analyst</em></p>
+      <p align="center"><em>My Personal Portfolio Website - Developer &amp; Analyst</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
@@ -414,7 +417,7 @@ const shiv = {
         <li>Fully responsive with smooth animations &amp; contact form integration</li>
       </ul>
     </td>
-    <!-- ── PROJECT 3: TradeFlick ── -->
+    <!-- ── PROJECT 5: TradeFlick ── -->
     <td width="33%" valign="top">
       <h3 align="center">
         <a href="https://github.com/ShivGupta12234/TradeFlick" target="_blank" rel="noopener noreferrer">📈 TradeFlick</a>
@@ -442,8 +445,6 @@ const shiv = {
 </table>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
 
 ## 🌐 Let's Connect
 
