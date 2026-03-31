@@ -177,7 +177,7 @@ const shiv = {
 ![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-00d4ff?style=for-the-badge&logo=chartdotjs&logoColor=white)<br>
 ![ML Modeling](https://img.shields.io/badge/ML_Modeling-7928ca?style=for-the-badge&logo=tensorflow&logoColor=white)<br><br>
 |
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)<br>
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)<br>
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br>
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6B35?style=for-the-badge&logo=tableau&logoColor=white)
