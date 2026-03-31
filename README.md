@@ -284,28 +284,7 @@ const shiv = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ShivGupta12234/CodeZynk.ai">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ShivGupta12234&repo=CodeZynk.ai&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-&nbsp;
-
-<a href="https://github.com/ShivGupta12234/ai-health-prediction-application">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ShivGupta12234&repo=ai-health-prediction-application&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-&nbsp;
-
-<a href="https://github.com/ShivGupta12234/mydataapplied">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ShivGupta12234&repo=mydataapplied&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-&nbsp;
-
-<a href="https://github.com/ShivGupta12234/expressBookReviews">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ShivGupta12234&repo=expressBookReviews&theme=github_dark&border_color=7928ca&title_color=7928ca&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
-</div>
+ <div align="center"> <table> <tr> <td width="50%" valign="top"> <h3 align="center"> <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">⚡ CodeZynk</a> </h3> <p align="center"> <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/View%20Repo-CodeZynk-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="CodeZynk Repo"/> </a> </p> <p align="center"><em>Real-Time Collaborative Code &amp; Document Editor</em></p> <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> </p> <ul> <li>Multi-user real-time editing with live cursor presence via <strong>WebSockets + Yjs OT</strong></li> <li>Code-aware <strong>RAG pipeline</strong> (OpenAI + Qdrant) — &#8595;25% response latency</li> <li>JWT auth, refresh token rotation, RBAC + <strong>Redis</strong> caching &amp; rate limiting</li> <li>Fully containerised with <strong>Docker</strong>, CI/CD via GitHub Actions — &#8595;30% deploy time</li> </ul> </td> <td width="50%" valign="top"> <h3 align="center"> <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">🧬 AI Disease Prediction</a> </h3> <p align="center"> <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/View%20Repo-AI--Disease--Prediction-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="AI Disease Prediction Repo"/> </a> </p> <p align="center"><em>AI-Powered Disease Prediction &amp; Health Data Analysis</em></p> <p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> </p> <ul> <li>Predicts <strong>14+ diseases</strong> via Hugging Face Inference API — &#8595;35% latency, &#8593;7% accuracy</li> <li>JWT auth, bcrypt hashing, RBAC — &#8595;25% security vulnerabilities</li> <li>Rectified <strong>500+ data discrepancies</strong> — &#8593;50% data accuracy</li> <li>Interactive <strong>Power BI dashboard</strong> — &#8595;20% manual risk assessment time</li> </ul> </td> </tr> </table> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
