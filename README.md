@@ -64,7 +64,7 @@ const shiv = {
   phone       : "+91 830 373 1077",
   portfolio   : "https://mydataapplied.vercel.app/",
   currently   : "Building CodeZynk - a real-time collaborative code editor",
-  learning    : "System Design, Microservices & Advanced ML",
+  learning    : "System Design, Microservices & Role Based Access",
   openTo      : ["Full-Stack Roles", "Software Engineer Roles", "Software Developer Roles", "Data Analyst Roles", "DevOps Related Roles", "Freelance Projects"],
   funFact     : "I solve LeetCode problems for fun - 170+ solved, 85% acceptance 🔥",
   philosophy  : "I don't just write code - I architect solutions.",
