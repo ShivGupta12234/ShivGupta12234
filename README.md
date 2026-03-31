@@ -242,7 +242,7 @@ const shiv = {
 | React.js: Building an Interface | LinkedIn | | <a href="https://www.linkedin.com/learning/certificates/08b82b700e8c2eb6188852e610218a807c330b658914dddd6bc1b8597d4be02b" target="_blank" rel="noopener noreferrer">View</a> |
 | React Essential Training | LinkedIn | | <a href="https://www.linkedin.com/learning/certificates/959631b90b7870db661fe069b68b011d0519b72fec5a4ed75f6b62f71f91e74e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxC978oANQ9qK2nssWHmLnw%3D%3D" target="_blank" rel="noopener noreferrer">View</a> |
 | Excel Basics for Data Analysis | IBM | 98.14% | <a href="https://www.coursera.org/account/accomplishments/verify/E0CKF13K99DA" target="_blank" rel="noopener noreferrer">View</a> |
-| Certificate of Excellence | Coding Ninjas | Top 10% Coder | <a href="certificate.codingninjas.com/verify/89a9a840c5e5f368" target="_blank" rel="noopener noreferrer">View</a> |
+| Certificate of Excellence | Coding Ninjas | Top 10% Coder | <a href="https://certificate.codingninjas.com/verify/89a9a840c5e5f368" target="_blank" rel="noopener noreferrer">View</a> |
 | LeetCode Problem Solving | LeetCode | 85% Acceptance · 200+ solved | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
 
 </div>
@@ -258,7 +258,7 @@ const shiv = {
 | Data Analysis with Python | IBM | 98% | <a href="https://www.coursera.org/account/accomplishments/verify/80LUXMMNLMD3" target="_blank" rel="noopener noreferrer">View</a> |
 | SQL for Data Science | UC Davis | 91.82% | <a href="https://www.coursera.org/account/accomplishments/verify/J6585N2EBPMS" target="_blank" rel="noopener noreferrer">View</a> |
 | Python Fundamentals for Data Science & AI | IBM | 96.25% | <a href="https://www.coursera.org/account/accomplishments/verify/RR8W7T0RVMAB" target="_blank" rel="noopener noreferrer">View</a> |
-| Certificate of Excellence | Coding Ninjas | Top 10% Coders | <a href="certificate.codingninjas.com/verify/89a9a840c5e5f368" target="_blank" rel="noopener noreferrer">View</a> |
+| Certificate of Excellence | Coding Ninjas | Top 10% Coders | <a href="https://certificate.codingninjas.com/verify/89a9a840c5e5f368" target="_blank" rel="noopener noreferrer">View</a> |
 | LeetCode Problem Solving | LeetCode | 84% Acceptance · 200+ solved | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
 
 </div>
