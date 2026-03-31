@@ -372,14 +372,14 @@ Motivated Computer Science undergraduate specializing in full-stack development 
 | 🏅 Certificate | 🏢 Issuer | 📊 Grade | 🔗 Verify |
 |:---|:---|:---:|:---:|
 | Back-End Apps with Node.js and Express | IBM | 97.50% | <a href="https://www.coursera.org/account/accomplishments/verify/3IR3LMWTJLD3" target="_blank" rel="noopener noreferrer">View</a> |
-|Certificate of completion - AI Fluency: Framework & Foundations| Anthropic | <a href="https://verify.skilljar.com/c/pj3ogpcpp34f" target="_blank" rel="noopener noreferrer">View</a> |
+|Certificate of completion - AI Fluency: Framework & Foundations| | Anthropic | <a href="https://verify.skilljar.com/c/pj3ogpcpp34f" target="_blank" rel="noopener noreferrer">View</a> |
 | Intro to AI Engineering | Scrimba/Coursera | 100% |<a href="https://www.coursera.org/account/accomplishments/verify/P6QAQIC0NTOF" target="_blank" rel="noopener noreferrer">View</a> |
-| Google AI Professional Certificate | Google | <a href="https://www.coursera.org/account/accomplishments/professional-cert/MC84LFUO90FG" target="_blank" rel="noopener noreferrer">View</a> |
-| React.js: Building an Interface | LinkedIn | <a href="https://www.linkedin.com/learning/certificates/08b82b700e8c2eb6188852e610218a807c330b658914dddd6bc1b8597d4be02b" target="_blank" rel="noopener noreferrer">View</a> |
-| React Essential Training | LinkedIn | <a href="https://www.linkedin.com/learning/certificates/959631b90b7870db661fe069b68b011d0519b72fec5a4ed75f6b62f71f91e74e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxC978oANQ9qK2nssWHmLnw%3D%3D" target="_blank" rel="noopener noreferrer">View</a> |
+| Google AI Professional Certificate | | Google | <a href="https://www.coursera.org/account/accomplishments/professional-cert/MC84LFUO90FG" target="_blank" rel="noopener noreferrer">View</a> |
+| React.js: Building an Interface | | LinkedIn | <a href="https://www.linkedin.com/learning/certificates/08b82b700e8c2eb6188852e610218a807c330b658914dddd6bc1b8597d4be02b" target="_blank" rel="noopener noreferrer">View</a> |
+| React Essential Training | | LinkedIn | <a href="https://www.linkedin.com/learning/certificates/959631b90b7870db661fe069b68b011d0519b72fec5a4ed75f6b62f71f91e74e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BxC978oANQ9qK2nssWHmLnw%3D%3D" target="_blank" rel="noopener noreferrer">View</a> |
 | Excel Basics for Data Analysis | IBM | 98.14% | <a href="https://www.coursera.org/account/accomplishments/verify/E0CKF13K99DA" target="_blank" rel="noopener noreferrer">View</a> |
 | Certificate of Excellence | Coding Ninjas | Top 10% Coder | <a href="certificate.codingninjas.com/verify/89a9a840c5e5f368" target="_blank" rel="noopener noreferrer">View</a> |
-| LeetCode Problem Solving | LeetCode | 84% Acceptance · 170+ solved | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
+| LeetCode Problem Solving | LeetCode | 84% Acceptance · 200+ solved | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
 
 </div>
 
