@@ -153,7 +153,6 @@ const shiv = {
         <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=00d4ff"><br>
         <img src="https://img.shields.io/badge/Microservices-7928ca?style=for-the-badge&logo=serverless&logoColor=white"><br>
         <img src="https://img.shields.io/badge/AI_Integration-FF4C8B?style=for-the-badge&logo=openai&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
       </td>
     </tr>
 
@@ -183,7 +182,6 @@ const shiv = {
         <img src="https://img.shields.io/badge/Data_Wrangling-7928ca?style=for-the-badge&logo=databricks&logoColor=white"><br>
         <img src="https://img.shields.io/badge/EDA-FF6B35?style=for-the-badge&logo=chartdotjs&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"><br>
-        <img src="https://img.shields.io/badge/SEO_Analysis-34A853?style=for-the-badge&logo=google&logoColor=white">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"><br>
@@ -195,7 +193,6 @@ const shiv = {
       <td align="center">
         <img src="https://img.shields.io/badge/Statistical_Analysis-FF4C8B?style=for-the-badge&logo=scipy&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Regression_Analysis-00d4ff?style=for-the-badge&logo=chartdotjs&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/ML_Modeling-7928ca?style=for-the-badge&logo=tensorflow&logoColor=white">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"><br>
