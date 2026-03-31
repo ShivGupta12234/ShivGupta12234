@@ -194,12 +194,15 @@ const shiv = {
 
 </div>
 
+<div align="center">
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/><br/>
 
 <a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
   <img src="https://streak-stats.demolab.com?user=ShivGupta12234&theme=dark&background=0d1117&border=00d4ff&stroke=00d4ff30&ring=7928ca&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&excludeDaysLabel=8b949e" width="65%" alt="GitHub Streak"/>
 </a>
+</div>
 
 <br/><br/>
 
