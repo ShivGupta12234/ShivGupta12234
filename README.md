@@ -248,15 +248,12 @@ const shiv = {
 | LeetCode Problem Solving | LeetCode | 84% Acceptance · 200+ solved | <a href="https://leetcode.com/u/shivpgupta001/" target="_blank" rel="noopener noreferrer">View</a> |
 
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
+
 
 
 
 ## 🐍 Contribution Snake
-
-> ⚙️ **One-time setup:** Go to the `Actions` tab in this repo → run `Generate Snake Graph` once manually. After that it auto-regenerates every 12 hours via the included workflow file.
 
 <div align="center">
 
