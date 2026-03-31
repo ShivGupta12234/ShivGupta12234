@@ -57,7 +57,7 @@
 ```typescript
 const shiv = {
   name        : "Shiv Prakash Gupta",
-  roles       : ["Full-Stack Developer", "Data Analyst"],
+  roles       : ["Full-Stack Developer Roles", "Data Analyst Roles", "Software Engineer Roles", "Software Developer Roles", "DevOps Related Roles", "Freelance Projects"],
   education   : "B.Tech CSE (Data Science) - PSIT Kanpur  |  2022–2026",
   location    : "Kanpur, India 🇮🇳",
   email       : "prakashguptashiv911@gmail.com",
