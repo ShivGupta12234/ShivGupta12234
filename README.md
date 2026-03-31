@@ -289,10 +289,10 @@ const shiv = {
     <!-- ── PROJECT 1: CodeZynk ── -->
     <td width="33%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/ShivGupta12234/CodeZynk" target="_blank" rel="noopener noreferrer">⚡ CodeZynk</a>
+        <a href="https://github.com/ShivGupta12234/CodeZynk.ai" target="_blank" rel="noopener noreferrer">⚡ CodeZynk</a>
       </h3>
       <p align="center">
-        <a href="https://github.com/ShivGupta12234/CodeZynk" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ShivGupta12234/CodeZynk.ai" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
         </a>
       </p>
@@ -308,16 +308,16 @@ const shiv = {
         <li>Devloping a Multi-user editing with live cursors via <strong>WebSockets + Yjs OT</strong></li>
         <li>Engineering a Code-aware <strong>RAG pipeline</strong> (OpenAI + Qdrant) - &#8595;25% latency</li>
         <li>Implementing JWT auth, RBAC, refresh tokens + <strong>Redis</strong> caching</li>
-        <li><strong>Docker</strong> + CI/CD via GitHub Actions - &#8595;30% deploy time</li>
+        <li>Using <strong>Docker</strong> + CI/CD via GitHub Actions - &#8595;30% deploy time</li>
       </ul>
     </td>
     <!-- ── PROJECT 2: AI Disease Prediction ── -->
     <td width="33%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/ShivGupta12234/AI-Disease-Prediction" target="_blank" rel="noopener noreferrer">🧬 AI-Powered Disease Prediction</a>
+        <a href="https://github.com/ShivGupta12234/ai-health-prediction-application" target="_blank" rel="noopener noreferrer">🧬 AI-Powered Disease Prediction</a>
       </h3>
       <p align="center">
-        <a href="https://github.com/ShivGupta12234/AI-Disease-Prediction" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ShivGupta12234/ai-health-prediction-application" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/View%20Repo-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
         </a>
       </p>
@@ -344,7 +344,7 @@ const shiv = {
           <img src="https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
         </a>
         &nbsp;
-        <a href="https://aagam-designs-website.vercel.app" target="_blank" rel="noopener noreferrer">
+        <a href="https://aagamdesigns.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-vercel-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
         </a>
       </p>
