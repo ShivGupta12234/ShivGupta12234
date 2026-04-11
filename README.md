@@ -317,6 +317,10 @@ const shiv = {
         <a href="https://github.com/ShivGupta12234/ai-health-prediction-application" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/View%20Repo-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
         </a>
+        &nbsp;
+        <a href="https://aagamdesigns.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Live%20Demo-vercel-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+        </a>
       </p>
       <p align="center"><em>AI-Powered Disease Prediction &amp; Health Data Analysis</em></p>
       <p align="center">
