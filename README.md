@@ -318,7 +318,7 @@ const shiv = {
           <img src="https://img.shields.io/badge/View%20Repo-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
         </a>
         &nbsp;
-        <a href="https://aagamdesigns.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://healthmateai-app.vercel.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-vercel-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
         </a>
       </p>
@@ -332,8 +332,6 @@ const shiv = {
       <ul>
         <li>Predicts <strong>14+ diseases</strong> via Hugging Face API - &#8595;35% latency, &#8593;7% accuracy</li>
         <li>JWT auth, bcrypt, RBAC - &#8595;25% security vulnerabilities</li>
-        <li>Rectified <strong>500+ data discrepancies</strong> - &#8593;50% accuracy</li>
-        <li>Interactive <strong>Power BI dashboard</strong> - &#8595;20% manual review time</li>
       </ul>
     </td>
     <!-- ── PROJECT 3: Aagam Desings - Architectural Firm's Website ── -->
