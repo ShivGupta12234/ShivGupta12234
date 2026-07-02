@@ -62,7 +62,6 @@ const shiv = {
   location    : "India 🇮🇳",
   email       : "prakashguptashiv911@gmail.com",
   portfolio   : "https://mydataapplied.vercel.app/",
-  currently   : "Building CodeZynk - a real-time collaborative code editor",
   learning    : "System Design, Microservices & Role Based Access",
   openTo      : ["Full-Stack Roles", "Software Engineer Roles", "Software Developer Roles", "Data Analyst Roles", "DevOps Related Roles", "Freelance Projects"],
   funFact     : "I solve LeetCode problems for fun - 200+ solved, 85% acceptance 🔥",
@@ -273,31 +272,6 @@ const shiv = {
 <div align="center">
 <table>
   <tr>
-    <!-- ── PROJECT 1: CodeZynk.ai ── -->
-    <td width="33%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/ShivGupta12234/CodeZynk.ai" target="_blank" rel="noopener noreferrer">⚡ CodeZynk</a>
-      </h3>
-      <p align="center">
-        <a href="https://github.com/ShivGupta12234/CodeZynk.ai" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View%20Repo-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-        </a>
-      </p>
-      <p align="center"><em>Building a Real-Time Collaborative Code &amp; Document Editor</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      </p>
-      <ul>
-        <li>Devloping a Multi-user editing with live cursors via <strong>WebSockets + Yjs OT</strong></li>
-        <li>Engineering a Code-aware <strong>RAG pipeline</strong> (OpenAI + Qdrant) - &#8595;25% latency</li>
-        <li>Implementing JWT auth, RBAC, refresh tokens + <strong>Redis</strong> caching</li>
-        <li>Using <strong>Docker</strong> + CI/CD via GitHub Actions - &#8595;30% deploy time</li>
-      </ul>
-    </td>
     <!-- ── PROJECT 2: AI Disease Prediction ── -->
     <td width="33%" valign="top">
       <h3 align="center">
@@ -352,8 +326,6 @@ const shiv = {
         <li>Clean UI showcasing projects, services &amp; firm identity</li>
       </ul>
     </td>
-  </tr>
-  <tr>
      <!-- ── PROJECT 3: Express Book Reviews ── -->
     <td width="33%" valign="top">
       <h3 align="center">
@@ -378,6 +350,8 @@ const shiv = {
         <li>IBM Back-End Development <strong>Capstone Project</strong> - scored 97.50%</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <!-- ── PROJECT 4: MyDataApplied Portfolio ── -->
     <td width="33%" valign="top">
       <h3 align="center">
