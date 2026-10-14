@@ -11,10 +11,7 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<a href="https://github.com/ShivGupta12234" target="_blank" rel="noopener noreferrer">
-  <img src="https://komarev.com/ghpvc/?username=ShivGupta12234&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="profile views"/>
-</a>
+
 &nbsp;
 <a href="https://github.com/ShivGupta12234?tab=followers" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/github/followers/ShivGupta12234?style=for-the-badge&color=7928ca&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="followers"/>
